@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         // Zaszyfruj hasło otrzymane w argumentach aplikacji (args) za pomocą następującego szyfru
+        // polecenie do uruchomienia aplikacji java -cp app.jar your.main.Class argument1 argument2
+        //TODO: intro do pobierania argumentow
         /*
             a=l
             s=k
